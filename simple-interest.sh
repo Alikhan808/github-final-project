@@ -3,16 +3,15 @@
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
-# Addtional Authors:
-# <your Github username>
+# Additional author: Alikhan808
 
 # Input:
 # p, principal amount
 # t, time period in years
-# r, annual rate of interest
+# r, annual rate of interest as a percentage
 
 # Output:
-# simple interest = p*t*r
+# simple interest = p*t*r/100
 
 echo "Enter the principal:"
 read p
